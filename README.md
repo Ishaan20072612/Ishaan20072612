@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer · LLM Systems · RAG & Multi-Agent Architectures</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ishaanchowdhury">https://www.linkedin.com/in/ishaanchowdhury/</a> ·
+  <a href="https://linkedin.com/in/ishaanchowdhury">linkedin.com/in/ishaanchowdhury/</a> ·
   <a href="mailto:ishaanchowdhury.ic100@gmail.com">ishaanchowdhury.ic100@gmail.com</a> ·
   <a href="https://instagram.com/iiits.ishaan">iiits.ishaan</a>
 </p>
