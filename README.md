@@ -43,8 +43,7 @@ Built an end-to-end RAG system with LangChain and Databricks. Improved retrieval
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan20072612&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ishaan20072612&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ishaan20072612&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
