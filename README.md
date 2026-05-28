@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer · LLM Systems · RAG & Multi-Agent Architectures</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ishaanchowdhury">linkedin.com/in/ishaanchowdhury/</a> ·
+  <a href="https://linkedin.com/in/ishaanchowdhury">LinkedIn</a> ·
   <a href="mailto:ishaanchowdhury.ic100@gmail.com">ishaanchowdhury.ic100@gmail.com</a> ·
   <a href="https://instagram.com/iiits.ishaan">iiits.ishaan</a>
 </p>
@@ -30,6 +30,15 @@ A supervisor-orchestrated pipeline of four agents — Analyst, Expert, Reviewer,
 
 **[NL-to-SQL Querying Agent](https://github.com/Ishaan20072612/SQL-Querying-Agents-With-Tools)**
 An LLM-powered agent that converts plain English questions into SQL queries and executes them live. Reduced query response time by 40% compared to baseline. Built with LangGraph and Streamlit. [Live app →](https://sql-query-agent-tool.streamlit.app)
+
+**[AI Resume Analyzer](https://github.com/Ishaan20072612/AI-Resume-Analyzer)**
+Upload a resume PDF and paste a job description — the AI scores the match, identifies skill gaps, gives ATS optimization tips, and recommends hire/no-hire. Built with Llama 3.3 70B via Groq and Streamlit. Completely free. [Live app →](https://ai-resume-analyzer-ic.streamlit.app)
+
+**[TennisRAG](https://github.com/Ishaan20072612/TennisRAG-Retrieval-Augmented-Generation-with-LLaMA-Chroma)**
+A from-scratch RAG pipeline that answers natural language questions using LLaMA 3.2, ChromaDB, and HuggingFace embeddings.
+
+**[Multi-Agent Invoice Reconciliation System](https://github.com/Ishaan20072612/invoice-agent-system)**
+A production-grade multi-agent system that processes supplier invoices, matches POs, detects discrepancies, and recommends resolution actions using LangGraph and OCR.
 
 ---
 
